@@ -17,4 +17,4 @@ order status.
 - 60.5% orders successfully shipped
 
 ## Dashboard Preview
-![Dashboard](screenshot.png)
+![Dashboard](Screenshot 2026-05-30 223320.png)
